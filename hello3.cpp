@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-  cout<< "asdasd"<< entl;
+  cout<< "asdasd"<< endl;
 
 }
